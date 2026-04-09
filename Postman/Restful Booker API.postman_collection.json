@@ -1,0 +1,22 @@
+{
+  "info": {
+    "_postman_id": "2608e591-312b-47bd-aa54-743798504ef9",
+    "name": "Restful Booker API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "22131742"
+  },
+  "item": [
+    {
+      "name": "Auth",
+      "item": []
+    },
+    {
+      "name": "Bookings",
+      "item": []
+    },
+    {
+      "name": "Ping",
+      "item": []
+    }
+  ]
+}
